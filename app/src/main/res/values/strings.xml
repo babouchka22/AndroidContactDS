@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">AndroidContactDS</string>
+
+    <string-array name="nom">
+        <item>Bob</item>
+        <item>Barbara</item>
+        <item>Sophie</item>
+    </string-array>
+
+    <string-array name="adresse">
+        <item>XXXX</item>
+        <item>IIIIII</item>
+        <item>VVVVV</item>
+    </string-array>
+
+    <string-array name="mail">
+        <item>Dessert 1</item>
+        <item>Dessert 2</item>
+        <item>Dessert 3</item>
+    </string-array>
+
 </resources>
